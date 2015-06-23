@@ -1,0 +1,21 @@
+//
+//  rpggame-prefix.pch
+//  rpggame
+//
+//  Created by Ellis Gray on 2/01/2015.
+//  Copyright (c) 2015 Ellis Gray. All rights reserved.
+//
+
+#ifndef rpggame_rpggame_prefix_pch
+#define rpggame_rpggame_prefix_pch
+#define ARC4RANDOM_MAX 0x100000000
+
+#ifdef __OBJC__
+
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#import <Sparrow/Sparrow.h>
+
+#endif
+
+#endif

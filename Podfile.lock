@@ -1,0 +1,17 @@
+PODS:
+  - Kiwi (2.3.1)
+  - Sparrow (2.1)
+
+DEPENDENCIES:
+  - Kiwi (from `https://github.com/kiwi-bdd/Kiwi.git`)
+  - Sparrow (~> 2.1)
+
+EXTERNAL SOURCES:
+  Kiwi:
+    :git: https://github.com/kiwi-bdd/Kiwi.git
+
+SPEC CHECKSUMS:
+  Kiwi: 1db9e71bb6f0515a7adcfdfcdbbe17ab3ec416f2
+  Sparrow: d92796c11c52a79e8ec4cac097402e44cd0a749d
+
+COCOAPODS: 0.33.1
